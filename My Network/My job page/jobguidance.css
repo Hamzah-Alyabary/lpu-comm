@@ -1,0 +1,19 @@
+video,
+iframe {
+  width: 100% !important;
+  height: auto !important;
+}
+
+main {
+  background: white;
+  height: fit-content;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1rem;
+  box-shadow: rgba(201, 111, 8, 0.685) 0px 19px 38px, rgba(201, 111, 8, 0.685) 0px 15px 12px;  }
+
+
+body {
+  margin: 2;
+  background-color: #eee;
+}
